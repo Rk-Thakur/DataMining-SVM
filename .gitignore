@@ -1,0 +1,7 @@
+.venv/
+data/
+output/
+*.rar
+*.joblib
+.DS_Store
+__pycache__/

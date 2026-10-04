@@ -1,0 +1,10 @@
+.venv
+data
+output
+*.rar
+*.ppt
+*.xlsx
+*.joblib
+*.dat
+*.csv
+.DS_Store
